@@ -38,14 +38,4 @@ public class UserList {
         return compareAvgValueLists(firstList, secondList);
     }
 
-//    public static void main(String[] args) {
-//        List<Integer> listOne = Arrays.asList(1, 2, 3, 4, 5);
-//        List<Integer> listTwo = Arrays.asList(6, 7, 8, 9, 10);
-//
-//        UserList userList = new UserList(listOne, listTwo);
-//
-//        System.out.println(userList.compareAvgValueLists(listTwo, listOne));
-//        System.out.println(userList.compareAvgValueLists());
-//        System.out.println(userList.compareAvgValueLists(listTwo, listTwo));
-//    }
 }
